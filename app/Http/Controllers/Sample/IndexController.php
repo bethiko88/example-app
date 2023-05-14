@@ -9,6 +9,6 @@ class IndexController extends Controller
 {
     public function show()
     {
-        return 'sunday moronig';
+        return view('index');
     }   
 }
